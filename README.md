@@ -7,5 +7,7 @@ Battery Guardian utilizes the psutil library to monitor the laptop's battery sta
 
 Add the .exe file to the startup file in order to start automatically as the laptop powers up
 
-Defaults are 40% for low battery 
-             80% for charged (Those are the advised percentages where the charger should be removed and plugged in)
+Defaults are  
+40% low battery   
+               80% for charged  
+               (Those are the advised percentages of removing and plugging in the charger)
